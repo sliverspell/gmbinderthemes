@@ -1,1 +1,21 @@
+/* Damage (DMG) Theme Style */
+.page-theme-dmg {
+    background-image: url('https://watercolors.giantsoup.com/templates/dmg_background_base.png');
+    background-size: cover;
+    min-height: 100vh; /* Ensures it covers the whole page */
+}
+
+/* Monster Theme Style */
+.page-theme-monster {
+    background-image: url('https://watercolors.giantsoup.com/templates/mm_background_base.png');
+    background-size: cover;
+    min-height: 100vh; /* Ensures it covers the whole page */
+}
+
+/* Ice Theme Style */
+.page-theme-ice {
+    background-image: url('https://watercolors.giantsoup.com/templates/ice_background_base.png');
+    background-size: cover;
+    min-height: 100vh; /* Ensures it covers the whole page */
+}
 
